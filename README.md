@@ -34,9 +34,11 @@
         6.1. kein eintrag da Projektstart: 13. Oktober 2023
         6.2. Schritte für das Projekt
                 6.2.1. Skitze der Webseite erstellen
-                6.2.2. Vorgehensweise Definieren 	
-                6.2.3. Beginn mit der Code Entwicklung
-                6.2.3. Dokumentation Erstellen
+                6.2.2. Vorgehensweise Definieren
+                6.2.3. Tägliches Ziel Definieren 	
+                6.2.4. Beginn mit der Code Entwicklung
+                6.2.5. Lösungs Dokumentation Erstellen
+                6.2.6. Projektdokumentation
         6.3. siehe Antwort 6.1.
         6.4. siehe Antwort 6.1.
         6.5. siehe Antwort 6.1.
