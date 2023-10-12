@@ -3,10 +3,10 @@
 Projekt Haushaltsbuch
 
 Projektzeitraum
-■ Orientierung und Vorbereitung: 12. Oktober 2023
-■ Projektstart: 13. Oktober 2023
-■ Projektende: 20. Oktober 2023
-■ Präsentation aller Projekte: 23. Oktober 2023
+    ■ Orientierung und Vorbereitung: 12. Oktober 2023
+    ■ Projektstart: 13. Oktober 2023
+    ■ Projektende: 20. Oktober 2023
+    ■ Präsentation aller Projekte: 23. Oktober 2023
 
 # 12.10.2024 Donnerstag
     1. allgemeine Planung
