@@ -43,6 +43,21 @@
         6.4. siehe Antwort 6.1.
         6.5. siehe Antwort 6.1.
 
+# 13.10.2023 Freitag
+
+* Fortsetzung der Arbeit an dem Haushaltsbuch
+* Erste Version des Programms wird aufgesetzt
+* Die Anforderungen werden definiert
+* Das Projektmanagementtool Github wird verwendet um alle Änderungen am Code zu dokumentieren
+* Der erste Commit wird gemacht
+
+
+
+
+
+
+
+
 
 
 
