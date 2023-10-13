@@ -46,18 +46,25 @@
   
   ## 13.10.2023 Freitag
   *Daily Standup:*
-* 1. Was wurde im Projekt realisiert?
-* 2. Was sind die nächsten Schritte für das Projekt?
+ 1. Was wurde im Projekt realisiert?
+ 2. Was sind die nächsten Schritte für das Projekt?
 
-*   1.1. mit Stift und Papier die Oberfläche ihrer Webanwendung
-*   1.2. Die Funktionalität des Programms definiert
-*   1.3. Beginn code Enteicklung
-*   1.4. Das Projekt wird dokumentiert
-*   1.5. Lösung in LoesungDoku.md dokumentiert
+  1.1. mit Stift und Papier die Oberfläche ihrer Webanwendung
+  1.2. Die Funktionalität des Programms definiert
+   1.3. Beginn code Enteicklung
+   1.4. Das Projekt wird dokumentiert
+  1.5. Lösung in LoesungDoku.md dokumentiert
    
-*   2.1. Weiterentwickeln von vorhandenen Komponenten   
-*   2.2. Neue Komponente hinzufügen
-*   2.3. Fehler beheben
+   2.1. Weiterentwickeln von vorhandenen Komponenten   
+   2.2. Neue Komponente hinzufügen
+   2.3. Fehler beheben
+
+
+Fortsetzung der Arbeit an dem Haushaltsbuch
+Erste Version des Programms wird aufgesetzt
+Die Anforderungen werden definiert
+Das Projektmanagementtool Github wird verwendet um alle Änderungen am Code zu dokumentieren
+Der erste Commit wird gemacht
 
 
 
