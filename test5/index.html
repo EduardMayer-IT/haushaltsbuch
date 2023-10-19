@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Haushaltsbuch</title>
+    <script src="app.js" defer></script>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <nav>
+        <div class="links">
+            <a href="/">Home</a><br />
+            <a href="uebersicht.html">Übersicht</a><br />
+        </div>
+
+        <h1>Haushaltsbuch</h1>
+    </nav>
+    <main>
+        <form id="transactionForm">
+            <label for="category">Kategorie</label>
+            <input type="text" name="category" id="category">
+            <label for="amount">Betrag</label>
+            <input type="number" name="amount" id="amount" step="any" max="9999999">
+            <label for="date">Datum (optional)</label>
+            <input type="date" name="date" id="date">
+            <label for="cycle">Zyklus</label>
+            <select name="cycle" id="cycle">
+                <option value="einmalig">Einmalig</option>
+                <option value="wöchentlich">Wöchentlich</option>
+                <option value="2-wöchentlich">2-wöchentlich</option>
+                <option value="monatlich">Monatlich</option>
+            </select>
+            <span id="inout-btn">
+                <span>Einnahmen</span>
+                <input type="radio" name="inout" id="inout" value="Einnahmen" checked>
+                <span>Ausgaben</span>
+                <input type="radio" name="inout" id="inout" value="Ausgaben">
+            </span>
+            <button type="submit">Hinzufügen</button>
+        </form>
+    </main>
+    <ul id="transactionList">
+        <!-- Hier werden die Transaktionen angezeigt -->
+    </ul>
+
+</body>
+
+</html>

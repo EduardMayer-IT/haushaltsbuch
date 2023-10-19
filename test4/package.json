@@ -1,0 +1,15 @@
+{
+    "name": "haushaltsbuch",
+    "version": "1.0.0",
+    "description": "Haushaltsbuch zur Erfassung und Überwachung der finanziellen Ausgaben",
+    "main": "app.js",
+    "scripts": {
+      "start": "node app.js"
+    },
+    "author": "Dein Name",
+    "license": "MIT",
+    "dependencies": {
+      "express": "^4.17.1" // Falls du Express.js verwendest, andernfalls hier die erforderlichen Abhängigkeiten eintragen
+    }
+  }
+  

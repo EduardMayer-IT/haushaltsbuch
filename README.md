@@ -66,13 +66,24 @@ Die Anforderungen werden definiert
 Das Projektmanagementtool Github wird verwendet um alle Änderungen am Code zu dokumentieren
 Der erste Commit wird gemacht
 
+## 16.10.2023 Montag
+Krankheitsbedingter Ausfall
+
+## 17.10.2023 Dienstag
+Krankheitsbedingter Ausfall
+
+## 18.10.2023 Mittwoch
+Krankheitsbedingter Ausfall
+
+## 19.10.2023 Donnerstag
+*Daily Standup:*
+1. Was wurde im Projekt realisiert?
+2. Was sind die nächsten Schritte für das Projekt?
+3. 
 
 
 
 
-
-
-skizzieren.
 
 
 
